@@ -3,7 +3,7 @@
 void inTamGiacSao(int n) {
     for (int i = 1; i <= n; i++) {
         // In khoang trang (spaces)
-        for (int j = 1; j <= n - i; j++) {
+        for (int j = 1; j <= n - i; j++) {g]
             printf(" ");
         }
         
